@@ -1,2 +1,2 @@
-My aim is to develop a Song/Artist Recommendation System using Spark Streaming in order to improve the user experience. Users will find new artists and songs that suit their musical interests
-due to the system's evaluation of their listening history and personal recommendations.
+The Song/Artist Recommendation System using Spark Streaming aims to enhance user experience on music streaming platforms by providing personalized recommendations in real time. By leveraging Apache Spark, PySpark, PySpark SQL, FindSpark, and MLlib, the system effectively ingests, processes, and analyzes user listening data to identify their preferences and generate tailored recommendations.
+
